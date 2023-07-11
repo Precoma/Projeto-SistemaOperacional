@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1686969160 source:c:\users\victor\desktop\so dadadadad\main.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<filesystem>
+	<string>
+	<cstring>
+	<locale>
+	<sys/stat.h>
+	<stdio.h>
+	<fstream>
+	<fileapi.h>
+	<dirent.h>
+
